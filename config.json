@@ -1,0 +1,15 @@
+{
+    "title": "Project 4",
+    "baseURL": "http:\/\/www.twilight.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "twilight.com"
+    }
+}
